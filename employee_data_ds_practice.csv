@@ -1,0 +1,13 @@
+Employee_ID,Name,Department,Age,Salary,Experience_Years,Performance_Score,Projects_Completed
+101,Rahul,IT,24,35000,1,78,2
+102,Priya,HR,29,42000,4,85,5
+103,Aman,IT,26,38000,2,82,3
+104,Sneha,Finance,32,55000,7,91,8
+105,Rohit,HR,28,45000,5,88,6
+106,Anjali,IT,25,40000,2,80,3
+107,Karan,Finance,35,60000,9,95,10
+108,Neha,IT,27,39000,3,84,4
+109,Vikram,Sales,31,48000,6,89,7
+110,Pooja,HR,30,46000,5,86,6
+111,Arjun,Sales,33,52000,8,92,9
+112,Riya,Finance,36,58000,10,94,11
